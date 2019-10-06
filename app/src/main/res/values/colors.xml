@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1F1E1E</color>
+    <color name="colorPrimaryDark">#4A4B4B</color>
+    <color name="colorAccent">#F8F7F7</color>
+    <color name="winBack">#313131</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#F9AA33</color>
+    <color name="lightStatus">#FFD180</color>
+
+    <color name="navBack">#579D8CFF</color>
+    <color name="lilblack">#0277BD</color>
+
+    <color name="primaryColor">#000000</color>
+    <color name="primaryLightColor">#484848</color>
+    <color name="primaryDarkColor">#212121</color>
+    <color name="primaryTextColor">#ffffff</color>
+
+    <color name="damagedWhite">#D3CECE</color>
+
+    <color name="accent">#F9AA33</color>
+
+    <color name="gray">#4D4C4C</color>
+
+    <color name="primary">#3F51B5</color>
+    <color name="primaryDark">#002984</color>
+    <color name="primaryLight" >#757DE8</color>
+    <color name="lighter">#DCB478</color>
+
+</resources>

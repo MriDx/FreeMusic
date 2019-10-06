@@ -1,0 +1,88 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="MyTheme.FullScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/primaryLightColor</item>
+        <item name="android:windowBackground">@color/winBack</item>
+        <item name="android:statusBarColor" >@color/gray</item>
+
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <!--<item name="android:titleTextColor" tools:targetApi="m">@color/winBack</item>-->
+        <!--<item name="android:navigationIcon" >@color/winBack</item>-->
+
+        <item name="android:textColor">#FFF3F3</item>
+        <item name="android:titleTextColor" tools:targetApi="m">#FFF3F3</item>
+
+    </style>
+
+    <style name="MyTheme.Navigation" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryLightColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/primaryColor</item>
+        <!--<item name="android:windowBackground">@color/primaryLightColor</item>-->
+
+        <!--<item name="android:textColor">@color/primaryTextColor</item>-->
+
+    </style>
+
+
+    <style name="AppTheme.Dark" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:statusBarColor" >@color/gray</item>
+
+        <item name="android:windowBackground">@color/gray</item>
+
+        <item name="colorButtonNormal">@color/primary</item>
+        <item name="android:colorButtonNormal">@color/primaryDark</item>
+        <item name="android:navigationBarColor">@color/gray</item>
+
+        <!-- animatiions -->
+        <item name="android:windowActivityTransitions">true</item>
+
+        <!--<item name="android:navigationBarColor" >@color/yellow</item>-->
+
+    </style>
+
+    <style name="AppTheme.Dark.Dialog" parent="Theme.AppCompat.Dialog">
+        <item name="colorAccent">@color/white</item>
+        <item name="android:textColorPrimary">@color/gray</item>
+        <item name="android:background">@color/primary</item>
+    </style>
+
+    <style name="MyTheme.TextInput" parent="Widget.Design.TextInputLayout">
+        <item name="android:colorAccent">@color/yellow</item>
+    </style>
+
+    <style name="AppTheme.Dark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.Dark.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.Dark.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

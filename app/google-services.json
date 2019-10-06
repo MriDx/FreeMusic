@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585373213632",
+    "firebase_url": "https://freemusic-1a145.firebaseio.com",
+    "project_id": "freemusic-1a145",
+    "storage_bucket": "freemusic-1a145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585373213632:android:c8331a2873f6ac9b",
+        "android_client_info": {
+          "package_name": "com.mridx.freemusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585373213632-967rcl7cbn5p7ejnttsscrr7108fsis7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mridx.freemusic",
+            "certificate_hash": "c854f1466dbc402b7eda686e770c99d14621636a"
+          }
+        },
+        {
+          "client_id": "585373213632-f9ot1npm650flj3019h9v1amask824l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2UEPcjCv89GclIaDSH0PmtkYt-iz7aR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585373213632-f9ot1npm650flj3019h9v1amask824l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <item android:title="Contact" >
+        <menu>
+            <item android:title="Email"
+                android:id="@+id/navEmail"
+                android:icon="@drawable/ic_email"
+                app:showAsAction="always" />
+        </menu>
+    </item>
+    <!--<item android:title="Feedback">
+        <menu>
+            <item android:title="Report Bug"
+                android:id="@+id/navReport"
+                android:icon="@drawable/ic_report"
+                app:showAsAction="always" />
+
+            <item android:title="Suggest"
+                android:id="@+id/navSuggest"
+                android:icon="@drawable/ic_suggest"
+                app:showAsAction="always" />
+
+
+        </menu>
+    </item>-->
+    <item android:title="Update">
+        <menu>
+            <item android:title="Update App"
+                android:icon="@drawable/ic_update"
+                android:id="@+id/navChkUp"
+                app:showAsAction="always" />
+        </menu>
+    </item>
+    <!--<item android:title="About">
+        <menu>
+            <item android:title="About App"
+                android:icon="@drawable/ic_app"
+                android:id="@+id/navAbtApp"
+                app:showAsAction="always" />
+            --><!--<item android:title="About Developer"
+                android:id="@+id/navAbtDev"
+                android:icon="@drawable/ic_dev"
+                app:showAsAction="always" />-->
+        <!--</menu>
+    </item>-->
+
+
+
+</menu>
