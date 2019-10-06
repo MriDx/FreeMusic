@@ -1,4 +1,5 @@
 # FreeMusic
+## [Download Now](http://www.mediafire.com/file/io4eaeo59iihi8c/freemusic1.0.apk/file)
 ## Description
 FreeMusic is an android music downloader app with which you can download and stream HD songs from JioSaavn Server.
 Its simple, clean and dark themed ui.
