@@ -1,5 +1,6 @@
 # FreeMusic
 ## [Download Now](http://www.mediafire.com/file/io4eaeo59iihi8c/freemusic1.0.apk/file)
+### if you liked this project or the app don't forget to give a star on this repo
 ## Description
 FreeMusic is an android music downloader app with which you can download and stream HD songs from JioSaavn Server.
 Its simple, clean and dark themed ui.
@@ -28,3 +29,4 @@ Its simple, clean and dark themed ui.
 ### [JAudioTagger](http://www.jthink.net/jaudiotagger/) for adding Meta-Data to downloaded songs
 ### [Picasso](https://square.github.io/picasso/) for loading images
 ### 
+###
