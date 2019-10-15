@@ -24,6 +24,9 @@ Its simple, clean and dark themed ui.
 # For Developer
 ### These codes are completely free to use. But if you use it, don't forget to give proper credit.
 #
+## If you want to contribute to this project please drop a mail at mridulbaishya28@gmail.com
+### I will add you a collaborator. 
+#
 # Libraries I used in this project
 ### [Jsoup](https://jsoup.org) for scrapping results
 ### [JAudioTagger](http://www.jthink.net/jaudiotagger/) for adding Meta-Data to downloaded songs
